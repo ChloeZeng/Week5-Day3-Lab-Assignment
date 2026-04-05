@@ -1,0 +1,27 @@
+{
+  "name": "mongo",
+  "version": "1.0.0",
+  "description": "WEB603 Full Stack",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChloeZeng/m6-w1-d1-homework.git"
+  },
+  "author": "chloe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChloeZeng/m6-w1-d1-homework/issues"
+  },
+  "homepage": "https://github.com/ChloeZeng/m6-w1-d1-homework#readme",
+  "dependencies": {
+    "body-parser": "^2.2.2",
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.0",
+    "express": "^5.2.1",
+    "mongoose": "^9.4.1"
+  }
+}
